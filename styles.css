@@ -129,11 +129,11 @@ ul {
   }
 
   .item-3 {
-    grid-row: 7 / 15;
+    grid-row: 7 / 16;
   }
 
   .item-4 {
-    grid-row: 15 / 24;
+    grid-row: 16 / 24;
   }
 
   .item-5, 
@@ -229,11 +229,11 @@ ul {
   }
 
   .item-3 {
-    grid-row: 7 / 14;
+    grid-row: 7 / 15;
   }
 
   .item-4 {
-    grid-row: 14 / 24;
+    grid-row: 15 / 24;
   }
 
   .item-5, 
